@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4363813860066580553
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: questionCode
+      value: Q_ALR_0_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: optionTexts.Array.data[0]
+      value: To assess how your actions will affect following traffic
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: optionTexts.Array.data[1]
+      value: Beacuse you'll need to accelerate out of danger
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: optionTexts.Array.data[2]
+      value: To check what's happening on the road ahead
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: optionTexts.Array.data[3]
+      value: Because you'll need to breke sharply to a stop
+      objectReference: {fileID: 0}
+    - target: {fileID: 3538826464551823861, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_Name
+      value: QALR_0_6 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 69
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_text
+      value: When you see a hazard ahead, you should use the mirrors. Why is this?
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 436d55a20f151f54b84fb24642c65968, type: 3}

@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 751fa6733d70c0e42bdeef0cc14b30cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2372414162285735448
+    second: Race Flag Sprite Sheet_0
+  - first:
+      213: -4958290321650124348
+    second: Race Flag Sprite Sheet_1
+  - first:
+      213: -5113797539697986108
+    second: Race Flag Sprite Sheet_2
+  - first:
+      213: 6159905845467084949
+    second: Race Flag Sprite Sheet_3
+  - first:
+      213: -3953528403355766147
+    second: Race Flag Sprite Sheet_4
+  - first:
+      213: -3878584390536993948
+    second: Race Flag Sprite Sheet_5
+  - first:
+      213: 6441766362312134382
+    second: Race Flag Sprite Sheet_6
+  - first:
+      213: -5245491597293531656
+    second: Race Flag Sprite Sheet_7
+  - first:
+      213: 3200561100143314230
+    second: Race Flag Sprite Sheet_8
+  - first:
+      213: -3685334794446342345
+    second: Race Flag Sprite Sheet_9
+  - first:
+      213: 1894352638917128072
+    second: Race Flag Sprite Sheet_10
+  - first:
+      213: -5231446088133298697
+    second: Race Flag Sprite Sheet_11
+  - first:
+      213: -7252878864928563540
+    second: Race Flag Sprite Sheet_12
+  - first:
+      213: 2401933214845002334
+    second: Race Flag Sprite Sheet_13
+  - first:
+      213: 3185292761237823115
+    second: Race Flag Sprite Sheet_14
+  - first:
+      213: -4047306335444915439
+    second: Race Flag Sprite Sheet_15
+  - first:
+      213: -4050557778152677802
+    second: Race Flag Sprite Sheet_16
+  - first:
+      213: -2514801349239917964
+    second: Race Flag Sprite Sheet_17
+  - first:
+      213: 6294172359152485777
+    second: Race Flag Sprite Sheet_18
+  - first:
+      213: 7254240719235950151
+    second: Race Flag Sprite Sheet_19
+  - first:
+      213: 7360221391829358928
+    second: Race Flag Sprite Sheet_20
+  - first:
+      213: 5285577065092456472
+    second: Race Flag Sprite Sheet_21
+  - first:
+      213: 8719746370832625794
+    second: Race Flag Sprite Sheet_22
+  - first:
+      213: -4772032818686573539
+    second: Race Flag Sprite Sheet_23
+  - first:
+      213: -4502376203531439394
+    second: Race Flag Sprite Sheet_24
+  - first:
+      213: 357523693592727687
+    second: Race Flag Sprite Sheet_25
+  - first:
+      213: -4860894586772832770
+    second: Race Flag Sprite Sheet_26
+  - first:
+      213: 3094756187619518893
+    second: Race Flag Sprite Sheet_27
+  - first:
+      213: 6835954849469501167
+    second: Race Flag Sprite Sheet_28
+  - first:
+      213: -6753543262156338387
+    second: Race Flag Sprite Sheet_29
+  - first:
+      213: 8693232514357718489
+    second: Race Flag Sprite Sheet_30
+  - first:
+      213: 5427245971114043665
+    second: Race Flag Sprite Sheet_31
+  - first:
+      213: -4523683322095290326
+    second: Race Flag Sprite Sheet_32
+  - first:
+      213: 4943779730691138844
+    second: Race Flag Sprite Sheet_33
+  - first:
+      213: 2409090491363903588
+    second: Race Flag Sprite Sheet_34
+  - first:
+      213: -4386687979606913592
+    second: Race Flag Sprite Sheet_35
+  - first:
+      213: -2137413695304458834
+    second: Race Flag Sprite Sheet_36
+  - first:
+      213: 5023958451438684277
+    second: Race Flag Sprite Sheet_37
+  - first:
+      213: -1891975015637744375
+    second: Race Flag Sprite Sheet_38
+  - first:
+      213: 7172441860831189114
+    second: Race Flag Sprite Sheet_39
+  - first:
+      213: 5570764310622780342
+    second: Race Flag Sprite Sheet_40
+  - first:
+      213: 6560741997470573836
+    second: Race Flag Sprite Sheet_41
+  - first:
+      213: -1748744397036904865
+    second: Race Flag Sprite Sheet_42
+  - first:
+      213: 7625350438506848416
+    second: Race Flag Sprite Sheet_43
+  - first:
+      213: 4263219585128074809
+    second: Race Flag Sprite Sheet_44
+  - first:
+      213: 9008754569072112664
+    second: Race Flag Sprite Sheet_45
+  - first:
+      213: 766500290374187798
+    second: Race Flag Sprite Sheet_46
+  - first:
+      213: -2851839058797945219
+    second: Race Flag Sprite Sheet_47
+  - first:
+      213: -5253986153584013213
+    second: Race Flag Sprite Sheet_48
+  - first:
+      213: 5184522285902301395
+    second: Race Flag Sprite Sheet_49
+  - first:
+      213: -2682573084066474757
+    second: Race Flag Sprite Sheet_50
+  - first:
+      213: 8077594836980000014
+    second: Race Flag Sprite Sheet_51
+  - first:
+      213: -6898963121271153612
+    second: Race Flag Sprite Sheet_52
+  - first:
+      213: 211446776127458073
+    second: Race Flag Sprite Sheet_53
+  - first:
+      213: 2279033295413088812
+    second: Race Flag Sprite Sheet_54
+  - first:
+      213: 3921252091513279346
+    second: Race Flag Sprite Sheet_55
+  - first:
+      213: -377395765621178894
+    second: Race Flag Sprite Sheet_56
+  - first:
+      213: 211888091590912428
+    second: Race Flag Sprite Sheet_57
+  - first:
+      213: -2683436760877901119
+    second: Race Flag Sprite Sheet_58
+  - first:
+      213: -8503623369219398711
+    second: Race Flag Sprite Sheet_59
+  - first:
+      213: 4927411102573272970
+    second: Race Flag Sprite Sheet_60
+  - first:
+      213: -3235298484266480958
+    second: Race Flag Sprite Sheet_61
+  - first:
+      213: 2228819349982714414
+    second: Race Flag Sprite Sheet_62
+  - first:
+      213: -517308596835425356
+    second: Race Flag Sprite Sheet_63
+  - first:
+      213: -6937045485845089444
+    second: Race Flag Sprite Sheet_64
+  - first:
+      213: -3451262016282457661
+    second: Race Flag Sprite Sheet_65
+  - first:
+      213: 1356397563165133221
+    second: Race Flag Sprite Sheet_66
+  - first:
+      213: 5477274064538200907
+    second: Race Flag Sprite Sheet_67
+  - first:
+      213: -3801697390313896861
+    second: Race Flag Sprite Sheet_68
+  - first:
+      213: 1227092616868217696
+    second: Race Flag Sprite Sheet_69
+  - first:
+      213: -3002981796101278455
+    second: Race Flag Sprite Sheet_70
+  - first:
+      213: 2450791207494149293
+    second: Race Flag Sprite Sheet_71
+  - first:
+      213: -6302306096269919026
+    second: Race Flag Sprite Sheet_72
+  - first:
+      213: 1969104365866478051
+    second: Race Flag Sprite Sheet_73
+  - first:
+      213: 6921215682794555373
+    second: Race Flag Sprite Sheet_74
+  - first:
+      213: 1939436646953718305
+    second: Race Flag Sprite Sheet_75
+  - first:
+      213: 8343351436483115476
+    second: Race Flag Sprite Sheet_76
+  - first:
+      213: 1550360423979746901
+    second: Race Flag Sprite Sheet_77
+  - first:
+      213: 3011960863892491600
+    second: Race Flag Sprite Sheet_78
+  - first:
+      213: 5232490434068591763
+    second: Race Flag Sprite Sheet_79
+  - first:
+      213: 7421729300356982996
+    second: Race Flag Sprite Sheet_80
+  - first:
+      213: 4361121139964871889
+    second: Race Flag Sprite Sheet_81
+  - first:
+      213: -390204816144561897
+    second: Race Flag Sprite Sheet_82
+  - first:
+      213: -3707431688779995507
+    second: Race Flag Sprite Sheet_83
+  - first:
+      213: 8775112601539493872
+    second: Race Flag Sprite Sheet_0
+  - first:
+      213: 8880518699926928776
+    second: Race Flag Sprite Sheet_1
+  - first:
+      213: 1517242742178106188
+    second: Race Flag Sprite Sheet_2
+  - first:
+      213: -8303305957225155
+    second: Race Flag Sprite Sheet_3
+  - first:
+      213: -763398196934519282
+    second: Race Flag Sprite Sheet_4
+  - first:
+      213: -3004836578921149060
+    second: Race Flag Sprite Sheet_5
+  - first:
+      213: -6349408267260393468
+    second: Race Flag Sprite Sheet_6
+  - first:
+      213: -7496195667528985199
+    second: Race Flag Sprite Sheet_7
+  - first:
+      213: 3173801640680742277
+    second: Race Flag Sprite Sheet_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb0d62b6677c970800000000000000
+      internalID: 8775112601539493872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 672
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dbb52e4b0fd3b70800000000000000
+      internalID: 8880518699926928776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 672
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bc09d3c345e0510800000000000000
+      internalID: 1517242742178106188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 672
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d45fdef2082eff0800000000000000
+      internalID: -8303305957225155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e065b81726dd765f0800000000000000
+      internalID: -763398196934519282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 336
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d0e414d0dac46d0800000000000000
+      internalID: -3004836578921149060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 336
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408040052de52e7a0800000000000000
+      internalID: -6349408267260393468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 336
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195dc16c1c928f790800000000000000
+      internalID: -7496195667528985199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dd354d6cb9b0c20800000000000000
+      internalID: 3173801640680742277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73773aab78f0bdcc0800000000000000
+      internalID: -3685334794446342345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88faaf930b71a4a10800000000000000
+      internalID: 1894352638917128072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Flag Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 464
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5353f008b2667b0800000000000000
+      internalID: -5231446088133298697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &320258792827422675
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 14000
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 509888679631656950, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: questionCode
+      value: Q_ALR_0_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: optionTexts.Array.data[0]
+      value: Only set the destination when you're lost
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: optionTexts.Array.data[1]
+      value: Stop in a safe place before programming the system
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: optionTexts.Array.data[2]
+      value: Choose a voice that you find calming
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806689285095091780, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: optionTexts.Array.data[3]
+      value: Turn it off while driving in built-up areas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3538826464551823861, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_Name
+      value: QALR 001 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3538826464551823861, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 101
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_text
+      value: How should you use a satellite navigation system so that it doesn't
+        distract you when you're driving?
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7635421124525746017, guid: 436d55a20f151f54b84fb24642c65968,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 16
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 436d55a20f151f54b84fb24642c65968, type: 3}
