@@ -19,13 +19,13 @@ And **you have limited fuel (time)** to answer the question. If you can't answer
 - The order of questions is random.
 - Has ads after each challenge.
 ## Challenges and Implementation
-I wrote the game in **C# with Unity Engine**. This is my very first game and it was not a simple game, or maybe even a game at all.
+✅ I wrote the game in **C# with Unity Engine**. This is my very first game and it was not a simple game, or maybe even a game at all.
 
-The first challenge that I had was **merging a game structure with a question-answer app structure**. This design and its implementation were difficult to set up and there was nothing on the internet that I can take as an example.
+✅ The first challenge that I had was **merging a game structure with a question-answer app structure**. This design and its implementation were difficult to set up and there was nothing on the internet that I can take as an example.
 
-Then I implemented **ads** in it after each level. In this way, I could generate some revenue to hire someone to improve the app.
+✅ Then I implemented **ads** in it after each level. In this way, I could generate some revenue to hire someone to improve the app.
 
-The last challenge in this app was the **Google Play Store**. They require specific settings and implementation. But I did manage to make Google happy about it.
+✅ The last challenge in this app was the **Google Play Store**. They require specific settings and implementation. But I did manage to make Google happy about it.
 ## Results
 The game didn't start well. Almost nobody installed it except a couple of my friends even though I've spent $100 on advertisements in specific areas of London. The main audience of these kind of apps are foreigners and I targeted them. But not much result.
 
